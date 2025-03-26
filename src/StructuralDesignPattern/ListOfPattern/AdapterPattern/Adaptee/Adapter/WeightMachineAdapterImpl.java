@@ -1,6 +1,6 @@
-package StructuralDesignPattern.DecoratedPattern.AdapterPattern.Adaptee.Adapter;
+package StructuralDesignPattern.ListOfPattern.AdapterPattern.Adaptee.Adapter;
 
-import StructuralDesignPattern.DecoratedPattern.AdapterPattern.Adaptee.WeightMachine;
+import StructuralDesignPattern.ListOfPattern.AdapterPattern.Adaptee.WeightMachine;
 
 public class WeightMachineAdapterImpl implements WeightMachineAdapter{
     WeightMachine weightMachine; //Has-a RelationShip(Aggregation)

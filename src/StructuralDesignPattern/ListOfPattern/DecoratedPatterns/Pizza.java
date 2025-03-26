@@ -1,4 +1,4 @@
-package StructuralDesignPattern.DecoratedPattern;
+package StructuralDesignPattern.ListOfPattern.DecoratedPatterns;
 
 public class Pizza {
    // The Decorator Pattern is a structural design pattern that allows you to add behavior (or responsibilities) to an object dynamically without modifying its structure.

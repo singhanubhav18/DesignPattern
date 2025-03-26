@@ -1,4 +1,4 @@
-package StructuralDesignPattern.DecoratedPattern;
+package StructuralDesignPattern.ListOfPattern.DecoratedPatterns;
 
 public class Margherita extends BasePizza{
     @Override

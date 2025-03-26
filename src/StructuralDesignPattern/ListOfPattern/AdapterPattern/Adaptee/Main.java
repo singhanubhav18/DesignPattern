@@ -1,7 +1,7 @@
-package StructuralDesignPattern.DecoratedPattern.AdapterPattern.Adaptee;
+package StructuralDesignPattern.ListOfPattern.AdapterPattern.Adaptee;
 
-import StructuralDesignPattern.DecoratedPattern.AdapterPattern.Adaptee.Adapter.WeightMachineAdapter;
-import StructuralDesignPattern.DecoratedPattern.AdapterPattern.Adaptee.Adapter.WeightMachineAdapterImpl;
+import StructuralDesignPattern.ListOfPattern.AdapterPattern.Adaptee.Adapter.WeightMachineAdapter;
+import StructuralDesignPattern.ListOfPattern.AdapterPattern.Adaptee.Adapter.WeightMachineAdapterImpl;
 
 public class Main {
     public static void main(String[] args) {
