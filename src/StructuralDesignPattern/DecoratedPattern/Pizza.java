@@ -1,6 +1,7 @@
 package StructuralDesignPattern.DecoratedPattern;
 
 public class Pizza {
+   // The Decorator Pattern is a structural design pattern that allows you to add behavior (or responsibilities) to an object dynamically without modifying its structure.
     public static void main(String[] args) {
         // Start with a basic FarmHouse pizza
         BasePizza basePizza = new FarmHousePizza();
