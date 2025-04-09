@@ -1,4 +1,4 @@
-package BehavioralDesignPatter;
+package BehavioralDesignPatter.AllChainResponsibiltyPrinciple;
 
 public class LogProcessor {
     public static int INFO=1;
